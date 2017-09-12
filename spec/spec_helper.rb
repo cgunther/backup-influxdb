@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "backup/influxdb"
+require "backup-influxdb"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
